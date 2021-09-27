@@ -17,9 +17,9 @@
  * @version     3.7.0
  */
 
-if ( ! defined( 'ABSPATH' ) ) {
-	exit;
-}
+// if ( ! defined( 'ABSPATH' ) ) {
+// 	exit;
+// }
 ?>
 <!-- <p class="woocommerce-result-count">
 	<?php
